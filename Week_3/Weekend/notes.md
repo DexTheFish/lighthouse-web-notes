@@ -13,3 +13,9 @@ read about [events](https://learn.jquery.com/events/introduction-to-events/), su
 ## Organization and Documentation
 
 read about using [jsdoc](https://jsdoc.app/about-getting-started.html) to add comments to code.
+
+## Chrome DevTools
+
+read the [CSS tutorial](https://developer.chrome.com/docs/devtools/css/)
+read the [JavaScript tutorial](https://developer.chrome.com/docs/devtools/javascript/)
+read the [overview](https://developer.chrome.com/docs/devtools/)
