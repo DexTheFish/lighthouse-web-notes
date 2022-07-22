@@ -1,0 +1,5 @@
+[Toronto JS](https://torontojs.com)  
+[Toronto JS](https://www.meetup.com/torontojs/?_cookie-check=BnyN9icao6YzdCA-)  
+[Ministry of Testing Toronto](https://www.meetup.com/Ministry-of-Testing-Toronto/)  
+[Twitter leads](https://www.google.com/search?q=Who+should+I+follow+on+twitter+to+learn+about+React?)  
+[Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)  
