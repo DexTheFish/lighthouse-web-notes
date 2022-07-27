@@ -10,3 +10,4 @@
 [ruby methods](https://overapi.com/ruby)  
 [official ruby documentation](https://ruby-doc.org/core-2.7.0/index.html)
 [launch school](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part2#classmethods)
+[learn ruby the hard way](https://learnrubythehardway.org)
