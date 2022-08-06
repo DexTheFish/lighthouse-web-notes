@@ -12,3 +12,7 @@
 ### Notes from Andy's lecture
 - focus on the Minimum Viable Demo
 - minimal or no login
+
+Zain's suggestions:
+use [navigator geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation) to get coordinates from the browser! Same as when you get 'this webpage wants to use your location' while browsing. Mostly useful if we end up doing user registration. Still it'd be cool to read the coords and use them to update the bio every time a user starts a session.  
+
