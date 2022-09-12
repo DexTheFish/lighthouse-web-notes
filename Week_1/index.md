@@ -10,9 +10,6 @@ Lots of javascript FOCAL, which stands for Functions, Objects, Conditions, Array
 - VSCode
 - 
 
-### Concepts
-
-
 ### Projects
 - [Lotide](https://github.com/DexTheFish/lotide)
   - lodash clone. JS, Mocha, Chai.

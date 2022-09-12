@@ -1,11 +1,8 @@
-# [Dex](https://github.com/DexTheFish)'s Notes
+# Notes
 ## Summary
-This repository has all the notes taken by Dex for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Dev Bootcamp.
+This repository has all the notes taken by [Dex](https://github.com/DexTheFish) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Developer Bootcamp.
 ## Table of Contents
-* [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
-  * [Day 2](/Week_1/Day_2)
-  * [Day 3](Week_1/Day_3)
+* [Week 1](/Week_1/index.md)
 * [Week 2](/Week_2)
   * [Day 3](Week_2/Day_3)
   * [Day 4](/Week_2/Day_4)
