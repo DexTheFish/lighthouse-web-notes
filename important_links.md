@@ -8,5 +8,5 @@ Visualise Code Execution with [Python Tutor](https://pythontutor.com/javascript.
 [random text generation](https://www.fantasynamegenerators.com/)   
 
 [Mikhail (Misha) website](https://pyshark.com/category/geometry/)  
-[resume builder](https://www.canva.com/resumes/templates/)
-
+[resume builder](https://www.canva.com/resumes/templates/)  
+[hacker news jobs](https://news.ycombinator.com/jobs)  
