@@ -10,3 +10,6 @@ Visualise Code Execution with [Python Tutor](https://pythontutor.com/javascript.
 [Mikhail (Misha) website](https://pyshark.com/category/geometry/)  
 [resume builder](https://www.canva.com/resumes/templates/)  
 [hacker news jobs](https://news.ycombinator.com/jobs)  
+
+
+[lorem ipsum pictures](https://picsum.photos/)  
